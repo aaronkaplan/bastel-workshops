@@ -1,3 +1,3 @@
 # bastel-workshops
 Bastel workshops
-Alle infos sind im wiki
+Alle infos sind im [wiki](wiki)
